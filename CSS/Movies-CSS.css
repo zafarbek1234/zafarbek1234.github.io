@@ -1,0 +1,22 @@
+	body
+	{
+		background-color:#808080;
+	}
+	
+	#genre
+	{
+		font-size:150% ;
+		color:grey ;
+	}
+	
+	#plot
+	{
+		font-size: 110% ;
+		font-family: arial ;
+	}
+
+	#cast
+	{
+		font-size: 110% ;
+		font-family: arial;
+	}
